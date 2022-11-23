@@ -1,4 +1,4 @@
-# frontend
+# fpws
 
 ## Project setup
 ```
